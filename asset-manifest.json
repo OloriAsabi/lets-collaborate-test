@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lets-collaborate-test/static/css/main.8f3caeb8.css",
+    "main.js": "/lets-collaborate-test/static/js/main.da7e3a5d.js",
+    "index.html": "/lets-collaborate-test/index.html",
+    "main.8f3caeb8.css.map": "/lets-collaborate-test/static/css/main.8f3caeb8.css.map",
+    "main.da7e3a5d.js.map": "/lets-collaborate-test/static/js/main.da7e3a5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3caeb8.css",
+    "static/js/main.da7e3a5d.js"
+  ]
+}
